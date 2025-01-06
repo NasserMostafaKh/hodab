@@ -1,0 +1,11 @@
+C:\Users\NASSER\source\repos\hodab\hodab\bin\Debug\netcoreapp2.1\hodab.deps.json
+C:\Users\NASSER\source\repos\hodab\hodab\bin\Debug\netcoreapp2.1\hodab.runtimeconfig.json
+C:\Users\NASSER\source\repos\hodab\hodab\bin\Debug\netcoreapp2.1\hodab.runtimeconfig.dev.json
+C:\Users\NASSER\source\repos\hodab\hodab\bin\Debug\netcoreapp2.1\hodab.dll
+C:\Users\NASSER\source\repos\hodab\hodab\bin\Debug\netcoreapp2.1\hodab.pdb
+C:\Users\NASSER\source\repos\hodab\hodab\obj\Debug\netcoreapp2.1\hodab.csprojAssemblyReference.cache
+C:\Users\NASSER\source\repos\hodab\hodab\obj\Debug\netcoreapp2.1\hodab.csproj.CoreCompileInputs.cache
+C:\Users\NASSER\source\repos\hodab\hodab\obj\Debug\netcoreapp2.1\hodab.AssemblyInfoInputs.cache
+C:\Users\NASSER\source\repos\hodab\hodab\obj\Debug\netcoreapp2.1\hodab.AssemblyInfo.cs
+C:\Users\NASSER\source\repos\hodab\hodab\obj\Debug\netcoreapp2.1\hodab.dll
+C:\Users\NASSER\source\repos\hodab\hodab\obj\Debug\netcoreapp2.1\hodab.pdb
